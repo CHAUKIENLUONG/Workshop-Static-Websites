@@ -1,11 +1,16 @@
 ---
-title: "Chiến lược Dữ liệu"
+title: "Các Trang Tĩnh trên AWS"
 date: 2025
 weight: 1
 chapter: false
 ---
 
-# Chiến lược Dữ liệu: AI Tạo sinh trong Thực tiễn
+# Các Trang Tĩnh trên AWS
 
-### Mô tả
-Thông qua một tình huống kinh doanh thực tế hấp dẫn, khám phá trực tiếp cách AI tạo sinh có thể định nghĩa lại cách bạn tiếp cận giải quyết vấn đề và đổi mới sáng tạo. Workshop này bao gồm các hướng dẫn toàn diện từng bước và tài liệu thuyết trình chi tiết về cách sử dụng AI tạo sinh để giải quyết các vấn đề kinh doanh thực tế. Bài thực hành này sẽ mất khoảng 90 phút để hoàn thành.
+### Triển khai Website Hugo với AWS Amplify
+
+![Triển khai Website Hugo với AWS Amplify](<../images/Hugo Deploy With AWS Amplify.drawio.png>)
+
+### CI/CD với GitHub Actions cho các Trang Tĩnh
+
+![CI/CD với GitHub Actions cho các Trang Tĩnh](../images/CI_CD.drawio.png)

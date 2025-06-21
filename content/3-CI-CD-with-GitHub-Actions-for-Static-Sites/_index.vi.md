@@ -13,3 +13,11 @@ Phần này giới thiệu cách thiết lập **pipeline CI/CD** sử dụng **
 * Triển khai liên tục (tự động xuất bản các thay đổi)
 
 * Tính nhất quán và giảm công việc thủ công
+
+[GitHub Actions Workflow](3.1-Github-Actions-Workflow/_index.md)
+
+[Create S3 Bucket](3.2-Create-S3-Bucket/_index.md)
+
+[Add permissions for IAM Users](3.3-Add-permisstions-for-IAM-Users/_index.md)
+
+[Access key and Policy](3.4-Access-key-and-Policy/_index.md)
